@@ -1,0 +1,35 @@
+h1 {
+  text-align: center;
+  margin: 40px;
+}
+
+.quiz {
+  /* display: flex; */
+  background: rgb(230, 193, 73);
+  border-radius: 2px;
+  overflow: auto;
+  padding: 25px;
+  width: 60%;
+  margin: 20px auto;
+}
+
+.buttonstyle {
+  margin: 10px;
+  padding: 5px;
+  background: darkblue;
+  color: whitesmoke;
+  cursor: pointer;
+}
+
+.d-none {
+  display: none;
+}
+
+.result {
+  text-align: center;
+  font-size: larger;
+}
+
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
